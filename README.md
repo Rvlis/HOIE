@@ -4,7 +4,7 @@
 ## 二、模型：BERTOverflow & R-BERT
 ### 1. BERTOverflow
 - 以StackOverflow数据作为语料预训练的BERT模型
-- [2020-Code and Named Entity Recognition in StackOverflow](https://arxiv.org/abs/2005.01634)
+- [2020-ACL-Code and Named Entity Recognition in StackOverflow](https://arxiv.org/abs/2005.01634)
 - [Github](https://github.com/jeniyat/StackOverflowNER)
 - "We trained in-domain BERT representations (BERTOverflow) on __152 million sentences__ from StackOverflow, which lead to an absolute increase of __+10 F-1 score__ over off-the-shelf BERT."
 - "We also present the SoftNER model which achieves an overall __79.10 F1 score__ for code and named entity recognition on StackOverflow data."
@@ -29,7 +29,7 @@
 
 ### 2. R-BERT
 - 使用BERT实现的文本分类模型
-- [2019-Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://dl.acm.org/doi/abs/10.1145/3357384.3358119)
+- [2019-CIKM-Enriching Pre-trained Language Model with Entity Information for Relation Classification](https://dl.acm.org/doi/abs/10.1145/3357384.3358119)
 - [Github](https://github.com/monologg/R-BERT)
 
 ![R-BERT](img/R-BERT%20comprasion.jpg)
