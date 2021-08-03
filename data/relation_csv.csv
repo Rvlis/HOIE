@@ -1,0 +1,256 @@
+:START_ID,:END_ID,:TYPE
+entity_0,entity_1,location
+entity_2,entity_1,location
+entity_3,entity_4,has part
+entity_0,entity_5,instance of
+entity_2,entity_5,follows
+entity_6,entity_7,country
+entity_8,entity_9,location
+entity_9,entity_10,location
+entity_9,entity_2,location
+entity_11,entity_12,located on terrain feature
+entity_11,entity_13,part of
+entity_14,entity_15,part of
+entity_16,entity_15,said to be the same as
+entity_14,entity_17,main subject
+entity_18,entity_19,located on terrain feature
+entity_20,entity_21,located on terrain feature
+entity_22,entity_23,location
+entity_24,entity_25,main subject
+entity_24,entity_26,located on terrain feature
+entity_27,entity_28,participant
+entity_29,entity_30,main subject
+entity_24,entity_17,main subject
+entity_24,entity_2,part of
+entity_31,entity_32,operator
+entity_31,entity_33,operator
+entity_34,entity_35,main subject
+entity_36,entity_37,part of
+entity_36,entity_38,location
+entity_39,entity_40,participant
+entity_39,entity_41,participant
+entity_42,entity_42,followed by
+entity_43,entity_44,participant
+entity_45,entity_44,participant
+entity_43,entity_46,participant
+entity_45,entity_46,participant
+entity_47,entity_48,participant
+entity_49,entity_50,participant
+entity_49,entity_51,participant
+entity_52,entity_53,participant
+entity_36,entity_54,part of
+entity_55,entity_56,participant
+entity_57,entity_58,participant
+entity_59,entity_60,main subject
+entity_59,entity_60,has part
+entity_61,entity_62,participant
+entity_63,entity_64,part of
+entity_65,entity_66,participant
+entity_67,entity_68,participant
+entity_67,entity_69,participant
+entity_63,entity_70,participant
+entity_71,entity_72,part of
+entity_73,entity_74,participant
+entity_75,entity_76,participant
+entity_75,entity_77,participant
+entity_78,entity_79,located on terrain feature
+entity_80,entity_81,operator
+entity_82,entity_83,country
+entity_82,entity_84,contains administrative territorial entity
+entity_82,entity_85,country
+entity_86,entity_87,military branch
+entity_86,entity_88,military branch
+entity_89,entity_90,location
+entity_91,entity_92,headquarters location
+entity_93,entity_94,main subject
+entity_95,entity_96,participant
+entity_95,entity_97,participant
+entity_95,entity_98,participant
+entity_99,entity_100,participant
+entity_101,entity_102,location
+entity_101,entity_103,participant
+entity_104,entity_104,followed by
+entity_104,entity_105,has part
+entity_106,entity_107,participant
+entity_108,entity_109,participant
+entity_110,entity_111,participant
+entity_110,entity_112,participant
+entity_36,entity_113,part of
+entity_114,entity_114,followed by
+entity_36,entity_115,location
+entity_116,entity_117,sibling
+entity_118,entity_119,sibling
+entity_118,entity_118,sibling
+entity_116,entity_120,screenwriter
+entity_121,entity_122,participant
+entity_123,entity_124,participant
+entity_125,entity_126,participant
+entity_125,entity_127,part of
+entity_128,entity_129,participant
+entity_128,entity_130,participant
+entity_128,entity_127,participant
+entity_128,entity_131,participant
+entity_116,entity_132,participant
+entity_133,entity_134,location
+entity_135,entity_136,military branch
+entity_137,entity_138,sibling
+entity_139,entity_140,part of
+entity_141,entity_142,contains administrative territorial entity
+entity_143,entity_144,location
+entity_145,entity_146,location
+entity_145,entity_147,main subject
+entity_148,entity_149,main subject
+entity_150,entity_151,main subject
+entity_152,entity_153,follows
+entity_154,entity_155,participant
+entity_154,entity_156,participant
+entity_157,entity_158,residence
+entity_159,entity_160,participant
+entity_161,entity_160,owned by
+entity_159,entity_162,military branch
+entity_161,entity_162,military branch
+entity_159,entity_163,participant
+entity_161,entity_163,participant
+entity_159,entity_164,participant
+entity_161,entity_164,owned by
+entity_165,entity_165,followed by
+entity_166,entity_166,followed by
+entity_167,entity_168,location of formation
+entity_169,entity_168,location
+entity_167,entity_170,main subject
+entity_169,entity_170,follows
+entity_171,entity_172,location
+entity_173,entity_173,followed by
+entity_174,entity_175,part of
+entity_174,entity_176,religion
+entity_174,entity_177,religion
+entity_161,entity_177,religion
+entity_178,entity_179,participant
+entity_178,entity_180,participant
+entity_178,entity_181,participant
+entity_182,entity_183,said to be the same as
+entity_182,entity_161,residence
+entity_184,entity_185,participant
+entity_186,entity_187,participant
+entity_186,entity_188,location
+entity_189,entity_190,applies to jurisdiction
+entity_189,entity_191,applies to jurisdiction
+entity_192,entity_193,participating team
+entity_192,entity_193,participant
+entity_186,entity_194,participant
+entity_186,entity_195,participant
+entity_186,entity_196,participant
+entity_197,entity_198,participant
+entity_197,entity_199,followed by
+entity_200,entity_201,notable work
+entity_202,entity_203,main subject
+entity_204,entity_205,field of work
+entity_206,entity_207,father
+entity_208,entity_209,participant
+entity_208,entity_209,location
+entity_208,entity_210,location
+entity_211,entity_212,participant
+entity_213,entity_214,participant
+entity_215,entity_216,sibling
+entity_217,entity_217,followed by
+entity_200,entity_218,spouse
+entity_200,entity_218,sibling
+entity_200,entity_219,has part
+entity_220,entity_221,location
+entity_220,entity_222,location
+entity_223,entity_224,said to be the same as
+entity_200,entity_225,notable work
+entity_200,entity_226,participant
+entity_223,entity_227,instance of
+entity_223,entity_188,main subject
+entity_223,entity_228,main subject
+entity_229,entity_230,part of
+entity_230,entity_231,main subject
+entity_232,entity_233,has part
+entity_234,entity_235,participant
+entity_236,entity_236,participant
+entity_236,entity_233,participant
+entity_232,entity_236,has part
+entity_233,entity_237,participant
+entity_238,entity_239,follows
+entity_238,entity_240,participant
+entity_233,entity_234,has part
+entity_241,entity_242,location
+entity_243,entity_231,location
+entity_244,entity_245,residence
+entity_246,entity_247,participant
+entity_248,entity_249,father
+entity_250,entity_251,located in or next to body of water
+entity_245,entity_251,located in or next to body of water
+entity_250,entity_252,located in the administrative territorial entity
+entity_253,entity_254,manufacturer
+entity_255,entity_256,military branch
+entity_255,entity_257,participant
+entity_258,entity_258,followed by
+entity_259,entity_218,said to be the same as
+entity_259,entity_260,participant
+entity_261,entity_234,has part
+entity_262,entity_263,sibling
+entity_262,entity_264,military branch
+entity_262,entity_265,participant
+entity_266,entity_267,child
+entity_268,entity_269,country of origin
+entity_268,entity_270,residence
+entity_271,entity_240,mother
+entity_272,entity_273,residence
+entity_266,entity_274,has part
+entity_275,entity_269,country of origin
+entity_275,entity_270,residence
+entity_276,entity_277,sibling
+entity_200,entity_245,work location
+entity_278,entity_279,participant
+entity_280,entity_281,applies to jurisdiction
+entity_282,entity_281,applies to jurisdiction
+entity_281,entity_281,followed by
+entity_278,entity_283,applies to jurisdiction
+entity_284,entity_285,main subject
+entity_186,entity_286,follows
+entity_287,entity_287,has part
+entity_287,entity_288,location
+entity_289,entity_290,operator
+entity_291,entity_292,location
+entity_293,entity_292,location
+entity_294,entity_295,part of
+entity_293,entity_296,location
+entity_293,entity_297,location
+entity_293,entity_298,location
+entity_299,entity_299,followed by
+entity_300,entity_300,followed by
+entity_301,entity_302,participant
+entity_303,entity_304,has part
+entity_305,entity_306,participant
+entity_307,entity_308,located in or next to body of water
+entity_309,entity_310,winner
+entity_311,entity_312,part of
+entity_311,entity_313,participant
+entity_311,entity_313,part of
+entity_311,entity_314,participant
+entity_315,entity_316,location
+entity_317,entity_318,part of
+entity_319,entity_320,participant
+entity_321,entity_321,followed by
+entity_322,entity_323,country of citizenship
+entity_324,entity_325,participating team
+entity_326,entity_327,followed by
+entity_326,entity_328,followed by
+entity_329,entity_320,part of
+entity_330,entity_320,has part
+entity_331,entity_320,location
+entity_332,entity_333,followed by
+entity_332,entity_334,followed by
+entity_335,entity_335,place served by transport hub
+entity_335,entity_336,follows
+entity_337,entity_338,operator
+entity_337,entity_339,participant
+entity_337,entity_340,main subject
+entity_341,entity_341,followed by
+entity_311,entity_342,main subject
+entity_343,entity_344,part of
+entity_343,entity_345,location
+entity_343,entity_346,has part
+entity_347,entity_347,followed by
