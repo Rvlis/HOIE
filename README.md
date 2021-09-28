@@ -43,7 +43,7 @@
 3. Spacy
 4. [ThuNLP-OpenNRE](https://github.com/thunlp/OpenNRE)
 
-## 三、Dataset & Benchmark
+## 三、Dataset
 1. CaRB：CaRB is a dataset cum evaluation framework for benchmarking Open Information Extraction systems, which has a size of 641 sentence.
 
 
