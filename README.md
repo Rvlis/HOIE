@@ -65,14 +65,14 @@
 
 2. Comparison of various component-ablated versions of MIE on __CaRB__
    <!-- ![ablation on CaRB](./img/ablation%20on%20CaRB.png) -->
-   <div align="center">
-      <img src="./img/ablation%20on%20CaRB.png" width = "80%" alt="" align=center />
+   <div align="left">
+      <img src="./img/ablation%20on%20CaRB.png" width = "80%" alt="" align=left />
    </div>
 
 3. Comparison of various component-ablated versions of MIE on __CaRB45__
    <!-- ![ablation on CaRB45](./img/ablation%20on%20CaRB45.png) -->
-   <div align="center">
-      <img src="./img/ablation%20on%20CaRB45.png" width = "80%" alt="" align=center />
+   <div align="left">
+      <img src="./img/ablation%20on%20CaRB45.png" width = "80%" alt="" align=left />
    </div>
    
 ## 四、需要解决的问题
