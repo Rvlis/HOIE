@@ -43,7 +43,15 @@
 3. Spacy
 4. [ThuNLP-OpenNRE](https://github.com/thunlp/OpenNRE)
 
+## 三、Dataset & Benchmark
+1. CaRB：CaRB is a dataset cum evaluation framework for benchmarking Open Information Extraction systems
+2. CaRB45：CaRB45 is a dataset seleceted from CaRB, which has a size of 45 sentences. Each sentence has following features:
+   - It is a compound sentence.
+   - It includes at least two fact triples.
+   -   
+
 ## 四、Evaluation
+
 1. Performance of various Open IE systems on CaRB
    
    | System | precision | recall | F1-score |
@@ -55,11 +63,17 @@
    | ClauseIE | 0.521 | 0.424| 0.450|
    | MIE | __0.574__ | 0.419| 0.484|
 
-2. Comparison of various component-ablated versions of MIE on CaRB
-   ![ablation on CaRB](./img/ablation%20on%20CaRB.png)
+2. Comparison of various component-ablated versions of MIE on __CaRB__
+   <!-- ![ablation on CaRB](./img/ablation%20on%20CaRB.png) -->
+   <div align="center">
+      <img src="./img/ablation%20on%20CaRB.png" width = "80%" alt="" align=center />
+   </div>
 
-3. Comparison of various component-ablated versions of MIE on CaRB45
-   ![ablation on CaRB45](./img/ablation%20on%20CaRB45.png)
+3. Comparison of various component-ablated versions of MIE on __CaRB45__
+   <!-- ![ablation on CaRB45](./img/ablation%20on%20CaRB45.png) -->
+   <div align="center">
+      <img src="./img/ablation%20on%20CaRB45.png" width = "80%" alt="" align=center />
+   </div>
    
 ## 四、需要解决的问题
 - BERTOverflow实体识别的过程繁琐、效率不高，作者推荐训练100轮，本地训练10轮耗费7、8小时，最终效果和作者论文种提到的还有差距
