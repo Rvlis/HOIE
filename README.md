@@ -34,14 +34,6 @@
 
 ![R-BERT](img/R-BERT%20comprasion.jpg)
 
-## 三、比较工具
-1. HDSKG
-   - HDSKG中实体识别使用的是`基于词性的模式匹配`，实际中通过这些些启发式规则提取了很多噪音数据，如a powerful tool、a framework等, 而且这些噪音数据没有找到合适的办法剔除。 BERTOverflow以20种实体类型预先标注了训练语料，提取效果更好，基本不会提取出类似前面的噪音，但类别有限，也可能导致提取不到想要的实体。
-   - 将预训练的BERTOverflwo模型用于实体识别，相当于识别出的实体已经有一定的领域相关性，代替了HDSKG的`Domain Relevance Estimation`部分。按道理，预训练的BERTOverflow无论是从先进性还是使用效果上，都是优于原HDSKG中的方法的。
-2. Stanford openIE
-   - HDSKG > openIE 
-3. Spacy
-4. [ThuNLP-OpenNRE](https://github.com/thunlp/OpenNRE)
 
 ## 三、Dataset
 1. CaRB：CaRB is a dataset cum evaluation framework for benchmarking Open Information Extraction systems, which has a size of 641 sentence.
