@@ -44,11 +44,13 @@
 4. [ThuNLP-OpenNRE](https://github.com/thunlp/OpenNRE)
 
 ## 三、Dataset & Benchmark
-1. CaRB：CaRB is a dataset cum evaluation framework for benchmarking Open Information Extraction systems
+1. CaRB：CaRB is a dataset cum evaluation framework for benchmarking Open Information Extraction systems, which has a size of 641 sentence.
+
+
 2. CaRB45：CaRB45 is a dataset seleceted from CaRB, which has a size of 45 sentences. Each sentence has following features:
    - It is a compound sentence.
    - It includes at least two fact triples.
-   -   
+   - It doesn't involve reporting verbs like __said__, __told__, __asked__, etc.
 
 ## 四、Evaluation
 
@@ -63,11 +65,13 @@
    | ClauseIE | 0.521 | 0.424| 0.450|
    | MIE | __0.574__ | 0.419| 0.484|
 
+
 2. Comparison of various component-ablated versions of MIE on __CaRB__
    <!-- ![ablation on CaRB](./img/ablation%20on%20CaRB.png) -->
    <div align="left">
       <img src="./img/ablation%20on%20CaRB.png" width = "80%" alt="" align=center />
    </div>
+
 
 3. Comparison of various component-ablated versions of MIE on __CaRB45__
    <!-- ![ablation on CaRB45](./img/ablation%20on%20CaRB45.png) -->
