@@ -1,7 +1,7 @@
-# MIE-information extraction
+# 特定领域知识图谱自动构建
 ## 一、流程
 ![流程图](./img/图谱流程.png)
-## 二、Pipeline：BERTOverflow & R-BERT
+## 二、模型：BERTOverflow & R-BERT
 ### 1. BERTOverflow
 - 以StackOverflow数据作为语料预训练的BERT模型
 - [2020-ACL-Code and Named Entity Recognition in StackOverflow](https://arxiv.org/abs/2005.01634)
@@ -42,24 +42,6 @@
    - HDSKG > openIE 
 3. Spacy
 4. [ThuNLP-OpenNRE](https://github.com/thunlp/OpenNRE)
-
-## 四、Evaluation
-1. Performance of various Open IE systems on CaRB
-   
-   | System | precision | recall | F1-score |
-   | :--- | :---: | :---: | :---: |
-   | Ollie | 0.505 | 0.346 | 0.411 |
-   | Props | 0.340 | 0.300 | 0.319 |
-   | OpenIE4 | 0.553 | __0.437__ | __0.488__ |
-   | OpenIE5 | 0.521 | 0.424 | 0.467 |
-   | ClauseIE | 0.521 | 0.424| 0.450|
-   | MIE | __0.574__ | 0.419| 0.484|
-
-2. Comparison of various component-ablated versions of MIE on CaRB
-   ![ablation on CaRB](./img/ablation%20on%20CaRB.png)
-
-3. Comparison of various component-ablated versions of MIE on CaRB45
-   ![ablation on CaRB45](./img/ablation%20on%20CaRB45.png)
    
 ## 四、需要解决的问题
 - BERTOverflow实体识别的过程繁琐、效率不高，作者推荐训练100轮，本地训练10轮耗费7、8小时，最终效果和作者论文种提到的还有差距
