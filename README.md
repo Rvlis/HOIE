@@ -39,14 +39,14 @@
 1. CaRB：CaRB is a dataset cum evaluation framework for benchmarking Open Information Extraction systems, which has a size of 641 sentence.
 
 
-2. CaRB45：CaRB45 is a dataset seleceted from CaRB, which has a size of 45 sentences. Each sentence has following features:
+2. CaRB-complex-45：CaRB45 is a dataset seleceted from CaRB, which has a size of 45 sentences. Each sentence has following features:
    - It is a compound sentence.
    - It includes at least two fact triples.
    - It doesn't involve reporting verbs like __said__, __told__, __asked__, etc.
 
 ## 四、Evaluation
 
-1. Performance of various Open IE systems on CaRB
+1. Performance of MIE and various Open IE systems on CaRB
    
    | System | precision | recall | F1-score |
    | :--- | :---: | :---: | :---: |
