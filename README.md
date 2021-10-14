@@ -12,7 +12,7 @@ Pipeline open information extraction (OIE) systems mainly have two sub-tasks (co
 2. Compound sentence simplified (C2S)
    
 
-3. 8 scenarios to extract relation triples
+4. 8 scenarios to extract relation triples
    <div align="left">
       <img src="./img/scenarios.jpg" width = "80%" alt="" align=center />
    </div>
