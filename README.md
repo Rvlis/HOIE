@@ -9,7 +9,10 @@ Pipeline open information extraction (OIE) systems mainly have two sub-tasks (co
 1. Implicit information extraction
    We exploit __dependency parsing (DP)__ to overcome issues that cannot recoginize implicit entities. In more detail, before NER phrase, HoIE exploits DP to get dependency information among constituents of each sentences. Then with these information and a set of domain-independent rules, HoIE could extract implicit information, for example, from __"This is not his bike, but Tom's"__ we can extract implicit triple `(Tom; has; bike)` and from __"Bell , a telecommunication company , which is based in Los Angeles"__ we can extract triples `(Bell; is; a telecommunication company)` and `(Bell; is based in; Los Angeles)` 
 
-2. 8 scenarios to extract relation triples
+2. Compound sentence simplified (C2S)
+   
+
+3. 8 scenarios to extract relation triples
    <div align="left">
       <img src="./img/scenarios.jpg" width = "80%" alt="" align=center />
    </div>
@@ -52,14 +55,14 @@ Pipeline open information extraction (OIE) systems mainly have two sub-tasks (co
    | HoIE | 0.31 | 0.16 | 0.21 |
 
 
-3. Comparison of various component-ablated versions of MIE on __CaRB__
+3. Comparison of various component-ablated versions of HoIE on __CaRB__
    <!-- ![ablation on CaRB](./img/ablation%20on%20CaRB.png) -->
    <div align="left">
       <img src="./img/ablation%20on%20CaRB.png" width = "80%" alt="" align=center />
    </div>
 
 
-4. Comparison of various component-ablated versions of MIE on __CaRB45__
+4. Comparison of various component-ablated versions of HoIE on __CaRB45__
    <!-- ![ablation on CaRB45](./img/ablation%20on%20CaRB45.png) -->
    <div align="left">
       <img src="./img/ablation%20on%20CaRB45.png" width = "80%" alt="" align=center />
