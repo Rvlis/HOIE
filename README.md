@@ -62,9 +62,13 @@ Pipeline open information extraction (OIE) systems mainly have two sub-tasks (co
    </div>
 
 
+
 4. Comparison of various component-ablated versions of HoIE on __CaRB-complex-45__
    <!-- ![ablation on CaRB45](./img/ablation%20on%20CaRB45.png) -->
    <div align="left">
       <img src="./img/ablation%20on%20CaRB45.png" width = "80%" alt="" align=center />
    </div>
-   
+
+5. Contribution of different scenarios
+
+问题定义、相关工作、个人工作、结论
