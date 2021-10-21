@@ -19,7 +19,7 @@ Pipeline open information extraction (OIE) systems mainly have two sub-tasks (co
 
 5. Distributions of different scenarios (941 sentences totally)
    <div align="left">
-      <img src="./img/sce_dist.png" width = "80%" alt="" align=center />
+      <img src="./img/sce_dist-1.png" width = "80%" alt="" align=center />
    </div>
 
 ## Ⅲ、Dataset
