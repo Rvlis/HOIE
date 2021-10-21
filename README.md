@@ -17,6 +17,11 @@ Pipeline open information extraction (OIE) systems mainly have two sub-tasks (co
       <img src="./img/scenarios.jpg" width = "80%" alt="" align=center />
    </div>
 
+5. Distributions of different scenarios
+   <div align="left">
+      <img src="./img/sce_dist.png" width = "80%" alt="" align=center />
+   </div>
+
 ## Ⅲ、Dataset
 1. CaRB：CaRB is a dataset cum evaluation framework for benchmarking Open Information Extraction systems, which has a size of 641 sentences.
 
