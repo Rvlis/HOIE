@@ -1,6 +1,6 @@
 # HOIE-Hybrid Open Information Extraction
 ## Ⅰ、Architecture of HOIE
-![流程图](./img/HOIE-2.png)
+![流程图](./img/HOIE-5.png)
 
 ## Ⅱ、Approach
 
